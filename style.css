@@ -18,7 +18,7 @@ h2 {
 /* Navigation Styles  */
 
 nav {
-  background-color: #24190b;
+  background-color: #40E0D0b;
   height: 60px;
   position: sticky;
   top: 0;
@@ -40,7 +40,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: #fff;
+  color: #0a0703;
   text-decoration: none;
   padding: 10px;
   transition: all 0.3s ease;
