@@ -89,8 +89,8 @@ body {
   
   /* Footer styles */
   footer {
-    background-color: #222222;
-    color: #FFFFFF;
+    background-color: #30D5C8;
+    color: #0a0703;
     padding: 20px 0;
     text-align: center;
   }
@@ -136,7 +136,7 @@ body {
     top: 0;
     width: 100%;
     z-index: 100;
-    background-color: #222222;
+    background-color: #30D5C8;
     transition: background-color 0.3s;
   }
   
